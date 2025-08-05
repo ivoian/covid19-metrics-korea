@@ -22,8 +22,3 @@ It includes visualizations of case trends, mortality rates, and vaccination prog
 - ✅ Daily new cases and cumulative death plots
 - ✅ Vaccination progress visualization
 - ✅ Mortality rate calculation
-
----
-
-## 🗂️ Project Structure
-
