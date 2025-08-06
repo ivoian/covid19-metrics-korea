@@ -6,19 +6,19 @@ It includes visualizations of case trends, mortality rates, and vaccination prog
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
-- 🧠 Improve data analysis and visualization skills using Python  
-- 🌏 Explore the evolution of COVID-19 in South Korea  
-- 💼 Build a culturally relevant portfolio project in English  
-- 📈 Analyze and interpret public health data effectively  
+- Improve data analysis and visualization skills using Python  
+- Explore the evolution of COVID-19 in South Korea  
+- Build a culturally relevant portfolio project in English  
+- Analyze and interpret public health data effectively  
 
 ---
 
-## 📊 Key Features
+## Key Features
 
-- ✅ Automatic download of updated COVID-19 dataset via GitHub
-- ✅ Filtering and analysis for South Korea only
-- ✅ Daily new cases and cumulative death plots
-- ✅ Vaccination progress visualization
-- ✅ Mortality rate calculation
+- Automatic download of updated COVID-19 dataset via GitHub
+- Filtering and analysis for South Korea only
+- Daily new cases and cumulative death plots
+- Vaccination progress visualization
+- Mortality rate calculation
